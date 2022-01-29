@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CO255</string>
+    <string name="refresh">Refresh</string>
+    <string name="get_todo_failed">Failed to get todo list</string>
+    <string name="failed_create_todo">Failed to create todo</string>
+    <string name="failed_delete_todo">Failed to delete todo</string>
+    <string name="failed_update_todo">Failed to update todo</string>
+</resources>
